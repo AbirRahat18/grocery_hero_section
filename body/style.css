@@ -1,0 +1,5 @@
+.div-2{background: repeating-linear-gradient(to right , pink , violet );background-repeat: no-repeat;}
+
+.repeating{
+    background: repeating-radial-gradient(circle,violet,indigo 20%);
+}
